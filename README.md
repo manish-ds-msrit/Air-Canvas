@@ -17,3 +17,5 @@ Here Colour Detection and tracking is used in order to achieve the objective. Th
 6. Finally draw the points stored in array on the frames and canvas .
 
 Requirements: python3 , numpy , opencv installed on your system.
+
+<img src="https://github.com/manish-ds-msrit/Air-Canvas/blob/main/Screenshots-Project%20Results/Screenshot%202008.png">
