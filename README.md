@@ -1,4 +1,4 @@
- Air-Canvas-project
+# Air-Canvas-project
 Computer vision project implemented with OpenCV
 
 Ever wanted to draw your imagination by just waiving your finger in air. In this post we will learn to build an Air Canvas which can draw anything on it by just capturing the motion of a coloured marker with camera. Here a coloured object at tip of finger is used as the marker.
